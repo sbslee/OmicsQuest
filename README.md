@@ -1,3 +1,4 @@
 # OmicsQuest
 
-[Microarrays](Microarrays.md)
+- [Databases](Databases.md)
+- [Microarrays](Microarrays.md)
