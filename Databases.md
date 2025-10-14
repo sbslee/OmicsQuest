@@ -1,0 +1,3 @@
+# Catalogue Of Somatic Mutations In Cancer (COSMIC)
+
+COSMIC is the leading resource for studying somatic mutations in human cancer. It defines single base substitution (SBS) signatures—mutations where one nucleotide is replaced by another. To avoid redundancy, all substitutions are reported from the pyrimidine strand (C or T); for example, a purine mutation like A>C is recorded as its complementary change T>G. This standardization reduces classification to six substitution types: C>A, C>G, C>T, T>A, T>C, and T>G. Considering the nucleotide context—four possible bases at the 5′ position and four at the 3′ position—the classification expands to 4 × 6 × 4 = 96 SBS categories.
