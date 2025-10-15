@@ -9,6 +9,7 @@
 | Illumina | NovaSeq 6000   | 2017 | 2 flow cells | $985K      | [Link](https://genohub.com/ngs-sequencer/5/illumina-novaseq-6000/)                  |
 | Ultima   | UG100          | 2024 | 2 wafers     | $1.5M      | [Link](https://genohub.com/ngs-sequencer/37/ultima-genomics-ug-100/)                |
 | MGI      | DNBSEQ-T7      | 2019 | 4 flow cells | $600K-800K | [Link](https://www.excedr.com/blog/how-much-does-a-next-generation-sequencer-cost/) |
+| Element  | AVITI          | 2022 | 2 flow cells | $289K      | [Link](https://genohub.com/ngs-sequencer/31/element-biosciences-aviti/)             |
 
 ## Consumables
 
@@ -24,3 +25,4 @@
 | Ultima   | UG100 Solaris       | 2025 | 10B   | 3,000 | $2,400  | $0.24       | $0.8   | [Link](https://www.ultimagenomics.com/products/ug-100-sequencing-platform/)       |
 | Ultima   | UG100               | 2024 | 6.7B  | 2,000 | $2,000  | $0.30       | $1.0   | [Link](https://www.ultimagenomics.com/products/ug-100-sequencing-platform/)       |
 | MGI      | DNBSEQ-T7           | 2019 | 5.8B  | 1,750 | $2,625  | $0.45       | $1.5   | [Link](https://www.completegenomics.com/products/sequencing-platforms/dnbseq-t7/) |
+| Element  | AVITI High Output   | 2022 | 1B    | 300   | $600    | $0.60       | $2.0   | [Link](https://www.elementbiosciences.com/products/aviti/catalog)                 |
