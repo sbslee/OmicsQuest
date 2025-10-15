@@ -11,7 +11,7 @@
 
 ## Consumables
 
-| Company  | Name          | Year | Reads | Gb    | Price   | Per M Reads | Per Gb | Source                                                                        |
+| Company  | Name (Lanes)  | Year | Reads | Gb    | Price   | Per M Reads | Per Gb | Source                                                                        |
 |----------|---------------|------|-------|-------|---------|-------------|--------|-------------------------------------------------------------------------------|
 | Illumina | NSX 1.5B (2L) | 2023 | 1.7B  | 500   | $2,600  | $1.53       | $5.2   | [Genohub](https://genohub.com/ngs-sequencer/3/illumina-novaseq-x-plus/)       |
 | Illumina | NSX 10B (8L)  | 2023 | 10B   | 3,000 | $9,600  | $0.96       | $3.2   | [Genohub](https://genohub.com/ngs-sequencer/3/illumina-novaseq-x-plus/)       |
