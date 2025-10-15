@@ -13,6 +13,8 @@
 
 ## Consumables
 
+The table below assumes 1 × 300 bp for Ultima and 2 × 150 bp for the others.
+
 | Company  | Name (Lanes)        | Year | Hours | Reads | Gb    | Price   | Per M Reads | Per Gb | Source                                                                            |
 |----------|---------------------|------|-------|-------|-------|---------|-------------|--------|-----------------------------------------------------------------------------------|
 | Illumina | NovaSeq X 1.5B (2)  | 2023 | 23    | 1.7B  | 500   | $2,600  | $1.53       | $5.2   | [Link](https://genohub.com/ngs-sequencer/3/illumina-novaseq-x-plus/)              |
