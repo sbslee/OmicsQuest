@@ -2,12 +2,13 @@
 
 ## Sequencers
 
-| Company  | Name                  | Year | Price  | Source                                                               |
-|----------|-----------------------|------|--------|----------------------------------------------------------------------|
-| Illumina | NovaSeq X Plus (NSXP) | 2023 | $1.25M | [Link](https://genohub.com/ngs-sequencer/3/illumina-novaseq-x-plus/) |
-| Illumina | NovaSeq X (NSX)       | 2023 | $985K  | [Link](https://genohub.com/ngs-sequencer/2/illumina-novaseq-x/)      |
-| Illumina | NovaSeq 6000 (NS6K)   | 2017 | $985K  | [Link](https://genohub.com/ngs-sequencer/5/illumina-novaseq-6000/)   |
-| Ultima   | UG100                 | 2024 | $1.5M  | [Link](https://genohub.com/ngs-sequencer/37/ultima-genomics-ug-100/) |
+| Company  | Name                  | Year | Price      | Source                                                                              |
+|----------|-----------------------|------|------------|-------------------------------------------------------------------------------------|
+| Illumina | NovaSeq X Plus (NSXP) | 2023 | $1.25M     | [Link](https://genohub.com/ngs-sequencer/3/illumina-novaseq-x-plus/)                |
+| Illumina | NovaSeq X (NSX)       | 2023 | $985K      | [Link](https://genohub.com/ngs-sequencer/2/illumina-novaseq-x/)                     |
+| Illumina | NovaSeq 6000 (NS6K)   | 2017 | $985K      | [Link](https://genohub.com/ngs-sequencer/5/illumina-novaseq-6000/)                  |
+| Ultima   | UG100                 | 2024 | $1.5M      | [Link](https://genohub.com/ngs-sequencer/37/ultima-genomics-ug-100/)                |
+| MGI      | DNBSEQ-T7             | 2019 | $600K-800K | [Link](https://www.excedr.com/blog/how-much-does-a-next-generation-sequencer-cost/) |
 
 ## Consumables
 
