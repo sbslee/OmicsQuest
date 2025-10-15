@@ -2,13 +2,13 @@
 
 ## Sequencers
 
-| Company  | Name           | Year | Price      | Source                                                                              |
-|----------|----------------|------|------------|-------------------------------------------------------------------------------------|
-| Illumina | NovaSeq X Plus | 2023 | $1.25M     | [Link](https://genohub.com/ngs-sequencer/3/illumina-novaseq-x-plus/)                |
-| Illumina | NovaSeq X      | 2023 | $985K      | [Link](https://genohub.com/ngs-sequencer/2/illumina-novaseq-x/)                     |
-| Illumina | NovaSeq 6000   | 2017 | $985K      | [Link](https://genohub.com/ngs-sequencer/5/illumina-novaseq-6000/)                  |
-| Ultima   | UG100          | 2024 | $1.5M      | [Link](https://genohub.com/ngs-sequencer/37/ultima-genomics-ug-100/)                |
-| MGI      | DNBSEQ-T7      | 2019 | $600K-800K | [Link](https://www.excedr.com/blog/how-much-does-a-next-generation-sequencer-cost/) |
+| Company  | Name           | Year | Substrates   | Price      | Source                                                                              |
+|----------|----------------|------|--------------|------------|-------------------------------------------------------------------------------------|
+| Illumina | NovaSeq X Plus | 2023 | 2 flow cells | $1.25M     | [Link](https://genohub.com/ngs-sequencer/3/illumina-novaseq-x-plus/)                |
+| Illumina | NovaSeq X      | 2023 | 1 flow cell  | $985K      | [Link](https://genohub.com/ngs-sequencer/2/illumina-novaseq-x/)                     |
+| Illumina | NovaSeq 6000   | 2017 | 2 flow cells | $985K      | [Link](https://genohub.com/ngs-sequencer/5/illumina-novaseq-6000/)                  |
+| Ultima   | UG100          | 2024 | 2 wafers     | $1.5M      | [Link](https://genohub.com/ngs-sequencer/37/ultima-genomics-ug-100/)                |
+| MGI      | DNBSEQ-T7      | 2019 | 4 flow cells | $600K-800K | [Link](https://www.excedr.com/blog/how-much-does-a-next-generation-sequencer-cost/) |
 
 ## Consumables
 
