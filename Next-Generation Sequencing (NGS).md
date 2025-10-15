@@ -16,8 +16,8 @@
 | Illumina | NSX 1.5B (2L) | 2023 | 1.7B  | 500   | $2,600  | $1.53       | $5.2   | [Genohub](https://genohub.com/ngs-sequencer/3/illumina-novaseq-x-plus/)       |
 | Illumina | NSX 10B (8L)  | 2023 | 10B   | 3,000 | $9,600  | $0.96       | $3.2   | [Genohub](https://genohub.com/ngs-sequencer/3/illumina-novaseq-x-plus/)       |
 | Illumina | NSX 25B (8L)  | 2023 | 26.7B | 8,000 | $16,000 | $0.60       | $2.0   | [Genohub](https://genohub.com/ngs-sequencer/3/illumina-novaseq-x-plus/)       |
-| Illumina | NS6K SP (2L)  | 2017 | 800M  | 250   | $3,023  | $3.78       | $12.09 | [Genohub](https://genohub.com/ngs-sequencer/5/illumina-novaseq-6000/)         |
-| Illumina | NS6K S1 (2L)  | 2017 | 1.6B  | 500   | $6,045  | $3.78       | $12.09 | [Genohub](https://genohub.com/ngs-sequencer/5/illumina-novaseq-6000/)         |
+| Illumina | NS6K SP (2L)  | 2017 | 800M  | 250   | $3,023  | $3.63       | $12.09 | [Genohub](https://genohub.com/ngs-sequencer/5/illumina-novaseq-6000/)         |
+| Illumina | NS6K S1 (2L)  | 2017 | 1.7B  | 500   | $6,045  | $3.63       | $12.09 | [Genohub](https://genohub.com/ngs-sequencer/5/illumina-novaseq-6000/)         |
 | Illumina | NS6K S2 (2L)  | 2017 | 4.1B  | 1,250 | $11,050 | $2.70       | $8.84  | [Genohub](https://genohub.com/ngs-sequencer/5/illumina-novaseq-6000/)         |
 | Illumina | NS6K S4 (4L)  | 2017 | 10B   | 3,000 | $16,590 | $1.66       | $5.53  | [Genohub](https://genohub.com/ngs-sequencer/5/illumina-novaseq-6000/)         |
 | Ultima   | UG100 Solaris | 2025 | 10B   | 3,000 | $2,400  | $0.24       | $0.8   | [Ultima](https://www.ultimagenomics.com/products/ug-100-sequencing-platform/) |
