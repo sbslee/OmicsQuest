@@ -6,4 +6,4 @@
 | Size of 16S rRNA?                 | 1.5 kp, 460 bp for V3-V4       |
 | Depth of bulk RNA-seq?            | 50M reads                      |
 | Cost of the Human Genome Project? | $3B, 1990~2003                 |
-| Odds ratios to beta coefficients? | $\beta = \ln(\mathrm{OR})$     |
+| Odds ratios to beta coefficients? | beta = ln(OR)                  |
