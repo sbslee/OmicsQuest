@@ -6,6 +6,7 @@
 - [GitHub - UltimaGenomics repository for workflows compatible with AWS HealthOmics](https://github.com/Ultimagen/healthomics-workflows/tree/main)
 - [GitHub - Calling variants from aligned cram files using efficient DV](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-germline-calling-efficient-dv.md)
 - [GitHub - Calling somatic variants from aligned cram files using efficient DV](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-somatic-calling-efficient-dv.md)
+- [MRD WG Analysis](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/mrd_featuremap/howto-mrd-wg-analysis.md)
 - [GitHub - Single Read SNV (SRSNV) pipeline (v1.23.0)](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/single_read_snv/howto-single-read-snv.md#introduction)
 - [GitHub - UG CRAM Format](https://github.com/Ultimagen/healthomics-workflows/blob/main/docs/UG_cram_format.pdf)
 - [Dataset - Genome-in-a-Bottle (GIAB) samples HG001-HG005](https://cdn.sanity.io/files/l7780ks7/production-2024/0a1b6a62a6da3e3fcafb81cad4c8ff2ffe85dd41.pdf)
