@@ -28,3 +28,8 @@ The table below assumes 1 × 300 bp for Ultima and 2 × 150 bp for the others.
 | Ultima   | UG100               | 2024 | 18    | 6.7B  | 2,000 | $2,000  | $0.30       | $1.0   | [Link](https://www.ultimagenomics.com/products/ug-100-sequencing-platform/)       |
 | MGI      | DNBSEQ-T7           | 2019 | 24    | 5.8B  | 1,750 | $2,625  | $0.45       | $1.5   | [Link](https://www.completegenomics.com/products/sequencing-platforms/dnbseq-t7/) |
 | Element  | AVITI High Output   | 2022 | 38    | 1B    | 300   | $600    | $0.60       | $2.0   | [Link](https://www.elementbiosciences.com/products/aviti/catalog)                 |
+
+# Methylation
+
+- [EM-seq by NEB](https://www.neb.com/en/tools-and-resources/feature-articles/enzymatic-methyl-seq-the-next-generation-of-methylome-analysis?srsltid=AfmBOorZFiPcSUt0ERspNKzaAP9Vnidfl-J3jBHK0GhpfHaroMei2Z2f)
+- [TAPS+ by Watchmaker](https://www.watchmakergenomics.com/taps.html)
