@@ -1,11 +1,20 @@
+# Recommended Analysis Pipelines
+
+| Analysis           | Pipeline                                                                                                                                                |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Germline SNV/INDEL | [Efficient DeepVariant](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-germline-calling-efficient-dv.md)     |
+| Germline CNV       | [cn.mops, CNVPYTOR, jalign](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-germline-calling-efficient-dv.md) |
+| Germline SV        | [GRIDSS](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/structural_variant_pipeline/howto-structural-variant-calling.md)        |
+| Germline MEI       | None                                                                                                                                                    |
+| Germline STR       | In development                                                                                                                                          |
+| Somatic SNV/INDEL  | [Efficient DeepVariant](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-somatic-calling-efficient-dv.md)      |
+
 # Resources
 - [Specification Sheet - UG 100™ Sequencing Platform: The Power of Genomics at Scale](https://cdn.sanity.io/files/l7780ks7/production-2024/b94bb743cd49c3beaf794e6452c7e0393ee3576b.pdf)
 - [Technical Note - Ultima Genomics’ Flow Chemistry: Methods, Quality Metrics, and Analysis Tools](https://cdn.sanity.io/files/l7780ks7/production-2024/e1e5d881d88c53fe1b9ca481323ae407c1fe21ce.pdf)
 - [Application Note - Germline Whole-Genome Sequencing on the UG 100™](https://cdn.sanity.io/files/l7780ks7/production-2024/f8fd8ef0ac9c81a625c52397dbb21f760ae4a6bc.pdf)
 - [Intro to Ultima Bioinformatics](https://www.ultimagenomics.com/products/start-bioinformatics/)
 - [GitHub - UltimaGenomics repository for workflows compatible with AWS HealthOmics](https://github.com/Ultimagen/healthomics-workflows/tree/main)
-- [GitHub - Calling variants from aligned cram files using efficient DV](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-germline-calling-efficient-dv.md)
-- [GitHub - Calling somatic variants from aligned cram files using efficient DV](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-somatic-calling-efficient-dv.md)
 - [MRD WG Analysis](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/mrd_featuremap/howto-mrd-wg-analysis.md)
 - [GitHub - Single Read SNV (SRSNV) pipeline (v1.23.0)](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/single_read_snv/howto-single-read-snv.md#introduction)
 - [GitHub - UG CRAM Format](https://github.com/Ultimagen/healthomics-workflows/blob/main/docs/UG_cram_format.pdf)
