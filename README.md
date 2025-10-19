@@ -1,5 +1,6 @@
 # OmicsQuest
 
+- [10x Genomics](10x%20Genomics.md)
 - [Cheatsheet](Cheatsheet.md)
 - [Databases](Databases.md)
 - [Microarrays](Microarrays.md)
