@@ -7,6 +7,7 @@
 | Germline SV        | [GRIDSS](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/structural_variant_pipeline/howto-structural-variant-calling.md)        |
 | Germline MEI       | None                                                                                                                                                    |
 | Germline STR       | In development                                                                                                                                          |
+| Germline HLA       | [HLAGenotyping](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/hla_genotyping/hla_genotyping.md)                                |
 | Somatic SNV/INDEL  | [Efficient DeepVariant](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-somatic-calling-efficient-dv.md)      |
 
 # Resources
