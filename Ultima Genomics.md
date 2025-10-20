@@ -27,3 +27,6 @@
 - [GitHub - Germline/Somatic Structural Variant (SV) Calling](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/structural_variant_pipeline/howto-structural-variant-calling.md)
 - [Dataset - Genome-in-a-Bottle (GIAB) samples HG001-HG005](https://cdn.sanity.io/files/l7780ks7/production-2024/0a1b6a62a6da3e3fcafb81cad4c8ff2ffe85dd41.pdf)
 - [Dataset - Tumor-normal + MRD (ppmSeq™) dataset](https://cdn.sanity.io/files/l7780ks7/production-2024/8039583d45aaba4bbd10993e14f5e6e1414a79fd.pdf)
+- [Publication - Mostly natural sequencing-by-synthesis for scRNA-seq using Ultima sequencing](https://doi.org/10.1038/s41587-022-01452-6)
+- [Publication - Atlas-scale Single-cell DNA Methylation Profiling with sciMETv3](https://doi.org/10.1016/j.xgen.2024.100726)
+- [Publication - Systematic reconstruction of molecular pathway signatures using scalable single-cell perturbation screens](https://doi.org/10.1038/s41556-025-01622-z)
