@@ -16,6 +16,7 @@
 - [Technical Note - Ultima Genomics’ Flow Chemistry: Methods, Quality Metrics, and Analysis Tools](https://cdn.sanity.io/files/l7780ks7/production-2024/e1e5d881d88c53fe1b9ca481323ae407c1fe21ce.pdf)
 - [Application Note - Germline Whole-Genome Sequencing on the UG 100™](https://cdn.sanity.io/files/l7780ks7/production-2024/f8fd8ef0ac9c81a625c52397dbb21f760ae4a6bc.pdf)
 - [Intro to Ultima Bioinformatics](https://www.ultimagenomics.com/products/start-bioinformatics/)
+- [How to Analyze Single-cell and Spatial Sequencing Data](https://www.ultimagenomics.com/products/single-cell-spatial-learn-more/)
 - [GitHub - UltimaGenomics repository for workflows compatible with AWS HealthOmics](https://github.com/Ultimagen/healthomics-workflows/tree/main)
 - [GitHub - MRD WG Analysis](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/mrd_featuremap/howto-mrd-wg-analysis.md)
 - [GitHub - Single Read SNV (SRSNV) pipeline (v1.23.0)](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/single_read_snv/howto-single-read-snv.md#introduction)
