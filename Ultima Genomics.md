@@ -23,7 +23,6 @@
 - [GitHub - UG CRAM Format](https://github.com/Ultimagen/healthomics-workflows/blob/main/docs/UG_cram_format.pdf)
 - [GitHub - Calling variants from aligned cram files using efficient DV](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-germline-calling-efficient-dv.md)
 - [GitHub - Calling somatic variants from aligned cram files using efficient DV](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-somatic-calling-efficient-dv.md)
-- [GitHub - Calling variants from aligned cram files using efficient DV](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/structural_variant_pipeline/howto-structural-variant-calling.md)
 - [GitHub - HLAGenotyping](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/hla_genotyping/hla_genotyping.md)
 - [GitHub - Germline/Somatic Structural Variant (SV) Calling](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/structural_variant_pipeline/howto-structural-variant-calling.md)
 - [Dataset - Genome-in-a-Bottle (GIAB) samples HG001-HG005](https://cdn.sanity.io/files/l7780ks7/production-2024/0a1b6a62a6da3e3fcafb81cad4c8ff2ffe85dd41.pdf)
