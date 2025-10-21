@@ -1,19 +1,21 @@
 # Recommended Analysis Pipelines
 
-| Analysis           | Pipeline                                                                                                                                                |
-|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Germline SNV/INDEL | [Efficient DeepVariant](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-germline-calling-efficient-dv.md)     |
-| Germline CNV       | [cn.mops, CNVPYTOR, jalign](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/germline_CNV_pipeline/germline_CNV_pipeline.md)      |
-| Germline SV        | [GRIDSS](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/structural_variant_pipeline/howto-structural-variant-calling.md)        |
-| Germline MEI       | None                                                                                                                                                    |
-| Germline STR       | In development                                                                                                                                          |
-| Germline HLA       | [HLAGenotyping](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/hla_genotyping/hla_genotyping.md)                                |
-| Germline SD        | [SegDupAnalysis](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/segdup/segdup.md)                                               |
-| Somatic SNV/INDEL  | [Efficient DeepVariant](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-somatic-calling-efficient-dv.md)      |
-| Somatic CNA        | [Control-FREEC](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/controlFREEC_pipeline/controlFREEC_pipeline.md)                  |
-| Somatic SV         | [GRIDSS](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/structural_variant_pipeline/howto-structural-variant-calling.md)        |
-| Somatic LOH        | [Control-FREEC](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/controlFREEC_pipeline/controlFREEC_pipeline.md)                  |
-| scRNAseq           | [SingleCell](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/single_cell_general/single_cell_general.md)                         |
+| Analysis                                   | Pipeline                                                                                                                                                |
+|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Germline - Single Nucleotide Variant (SNV) | [Efficient DeepVariant](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-germline-calling-efficient-dv.md)     |
+| Germline - Insertion-Deletion (INDEL)      | [Efficient DeepVariant](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-germline-calling-efficient-dv.md)     |
+| Germline - Copy Number Variation (CNV)     | [cn.mops, CNVPYTOR, jalign](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/germline_CNV_pipeline/germline_CNV_pipeline.md)      |
+| Germline - Structural Variation (SV)       | [GRIDSS](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/structural_variant_pipeline/howto-structural-variant-calling.md)        |
+| Germline - Mobile Element Insertion (MEI)  | None                                                                                                                                                    |
+| Germline - Short Tandem Repeat (STR)       | In development                                                                                                                                          |
+| Germline - Human Leukocyte Antigen (HLA)   | [HLAGenotyping](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/hla_genotyping/hla_genotyping.md)                                |
+| Germline Segmental Duplication (SD)        | [SegDupAnalysis](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/segdup/segdup.md)                                               |
+| Somatic - Single Nucleotide Variant (SNV)  | [Efficient DeepVariant](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-somatic-calling-efficient-dv.md)      |
+| Somatic - Insertion-Deletion (INDEL)       | [Efficient DeepVariant](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-somatic-calling-efficient-dv.md)      |
+| Somatic - Copy Number Alteration (CNA)     | [Control-FREEC](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/controlFREEC_pipeline/controlFREEC_pipeline.md)                  |
+| Somatic - Structural Variation (SV)        | [GRIDSS](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/structural_variant_pipeline/howto-structural-variant-calling.md)        |
+| Somatic - Loss of Heterozygosity (LOH)     | [Control-FREEC](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/controlFREEC_pipeline/controlFREEC_pipeline.md)                  |
+| Single-Cell RNA Sequencing (scRNA-seq)     | [SingleCell](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/single_cell_general/single_cell_general.md)                         |
 
 # Resources
 - [Specification Sheet - UG 100™ Sequencing Platform: The Power of Genomics at Scale](https://cdn.sanity.io/files/l7780ks7/production-2024/b94bb743cd49c3beaf794e6452c7e0393ee3576b.pdf)
