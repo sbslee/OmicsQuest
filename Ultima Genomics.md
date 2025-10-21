@@ -3,7 +3,7 @@
 | Analysis           | Pipeline                                                                                                                                                |
 |--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Germline SNV/INDEL | [Efficient DeepVariant](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-germline-calling-efficient-dv.md)     |
-| Germline CNV       | [cn.mops, CNVPYTOR, jalign](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-germline-calling-efficient-dv.md) |
+| Germline CNV       | [cn.mops, CNVPYTOR, jalign](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/germline_CNV_pipeline/germline_CNV_pipeline.md) |
 | Germline SV        | [GRIDSS](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/structural_variant_pipeline/howto-structural-variant-calling.md)        |
 | Germline MEI       | None                                                                                                                                                    |
 | Germline STR       | In development                                                                                                                                          |
