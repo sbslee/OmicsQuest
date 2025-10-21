@@ -9,7 +9,7 @@
 | Germline - Mobile Element Insertion (MEI)  | None                                                                                                                                                    |
 | Germline - Short Tandem Repeat (STR)       | In development                                                                                                                                          |
 | Germline - Human Leukocyte Antigen (HLA)   | [HLAGenotyping](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/hla_genotyping/hla_genotyping.md)                                |
-| Germline Segmental Duplication (SD)        | [SegDupAnalysis](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/segdup/segdup.md)                                               |
+| Germline - Segmental Duplication (SD)      | [SegDupAnalysis](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/segdup/segdup.md)                                               |
 | Somatic - Single Nucleotide Variant (SNV)  | [Efficient DeepVariant](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-somatic-calling-efficient-dv.md)      |
 | Somatic - Insertion-Deletion (INDEL)       | [Efficient DeepVariant](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/efficient_dv/howto-somatic-calling-efficient-dv.md)      |
 | Somatic - Copy Number Alteration (CNA)     | [Control-FREEC](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/controlFREEC_pipeline/controlFREEC_pipeline.md)                  |
