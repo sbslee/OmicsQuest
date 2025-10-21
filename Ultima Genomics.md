@@ -13,6 +13,7 @@
 | Somatic CNA        | [Control-FREEC](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/controlFREEC_pipeline/controlFREEC_pipeline.md)                  |
 | Somatic SV         | [GRIDSS](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/structural_variant_pipeline/howto-structural-variant-calling.md)        |
 | Somatic LOH        | [Control-FREEC](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/controlFREEC_pipeline/controlFREEC_pipeline.md)                  |
+| scRNAseq           | [SingleCell](https://github.com/Ultimagen/healthomics-workflows/blob/main/workflows/single_cell_general/single_cell_general.md)                         |
 
 # Resources
 - [Specification Sheet - UG 100™ Sequencing Platform: The Power of Genomics at Scale](https://cdn.sanity.io/files/l7780ks7/production-2024/b94bb743cd49c3beaf794e6452c7e0393ee3576b.pdf)
