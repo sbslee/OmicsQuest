@@ -39,3 +39,4 @@
 - [Publication - Mostly natural sequencing-by-synthesis for scRNA-seq using Ultima sequencing](https://doi.org/10.1038/s41587-022-01452-6)
 - [Publication - Atlas-scale Single-cell DNA Methylation Profiling with sciMETv3](https://doi.org/10.1016/j.xgen.2024.100726)
 - [Publication - Systematic reconstruction of molecular pathway signatures using scalable single-cell perturbation screens](https://doi.org/10.1038/s41556-025-01622-z)
+- [AWS - AWS HealthOmics Pricing - Ultima Genomics DeepVariant for up to 40x](https://aws.amazon.com/healthomics/pricing/)
