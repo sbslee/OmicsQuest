@@ -1,3 +1,39 @@
+# Supported Applications
+
+| Application                                              |
+|----------------------------------------------------------|
+| Native – WGS                                             |
+| ppmSeq (cfDNA)                                           |
+| ppmSeq (gDNA)                                            |
+| Bulk RNA-Seq                                             |
+| 10x GEM-X Universal 3’ Gene Expression v4                |
+| 10x Next GEM 3’ Gene Expression v3                       |
+| 10x GEM-X Universal 5’ Gene Expression v3                |
+| 10x Next GEM 5’ Gene Expression v2                       |
+| 10x GEM-X Flex Gene Expression                           |
+| 10x Next GEM Single Cell ATAC v2                         |
+| 10x Next GEM Single Cell Multiome ATAC + Gene Expression |
+| 10x GEM-X Single Cell 5’ Feature Barcoding v3            |
+| 10x GEM-X Single Cell 3’ Feature Barcoding v4            |
+| 10x Visium HD Spatial Gene Expression                    |
+| 10x GEM-X Flex CRISPR                                    |
+| 10x GEM-X 5’ CRISPR v3                                   |
+| Parse Evercode™ WT v3                                    |
+| Scale (ScalePlex)                                        |
+| Scale (QuantumScale)                                     |
+| AtlasXomics                                              |
+| Bioskryb ResolveDNA                                      |
+| Bioskryb ResolveOME                                      |
+| aDNA (double-stranded)                                   |
+| aDNA (single-stranded)                                   |
+| Twist FlexPrepTM UHT Library Preparation Kit             |
+| Olink® Explore HT                                        |
+| Olink® Reveal                                            |
+| IDT xGen™ Methyl-Seq                                     |
+| NEBNext® Enzymatic Methyl-seq                            |
+| IDT xGen™ cfDNA and FFPE DNA Library Prep Kit            |
+| Test                                                     |
+
 # Recommended Analysis Pipelines
 
 | Analysis                                   | Pipeline                                                                                                                                                |
